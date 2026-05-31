@@ -4,6 +4,11 @@ A simple Student Management System built using Java and Object-Oriented Programm
 
 ---
 
+## Live Demo
+https://shraddhapawar0802-dev.github.io/student-management-system/
+
+---
+
 🚀 Features
 
 - Add new students
